@@ -1,6 +1,6 @@
 # tienda-deportes-practica
 
 ## Catálogo de productos:
-Balon
+Balon de plástico color rojo Q 3.00
 Camiseta
 Tenis
